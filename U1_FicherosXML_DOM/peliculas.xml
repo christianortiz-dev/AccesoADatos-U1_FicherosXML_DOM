@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CatalogoPeliculas>
+    <Pelicula>
+        <Titulo>Gran Torino</Titulo>
+        <Duracion>136</Duracion>
+        <Genero>Drama</Genero>
+        <sinopsis>Vecinos inmigrantes obligan a un veterano a enfrentarse a
+los prejuicios de mucho tiempo. </sinopsis>
+        <Actores>
+            <Actor>Clint Eastwood</Actor>
+            <Actor>Geraldine Hughes</Actor>
+            <Actor>John Carroll Lynch</Actor>
+        </Actores>
+        <Fecha>1999</Fecha>
+        <Director>Wachowski Brothers</Director>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>The Matrix</Titulo>
+        <Duracion>136</Duracion>
+        <Genero>Sci-Fi and Fantasy</Genero>
+        <sinopsis>Un experto en computadoras descubre que su mundo es una
+simulación total creada con maliciosas intenciones por parte de la
+ciberinteligencia. </sinopsis>
+        <Actores>
+            <Actor>Keanu Reeves</Actor>
+            <Actor>Laurence Fishburne</Actor>
+            <Actor>Carrie Ann Moss</Actor>
+        </Actores>
+        <Fecha>1999</Fecha>
+        <Director>Wachowski Brothers</Director>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Titanic</Titulo>
+        <Duracion>194</Duracion>
+        <Genero>Drama</Genero>
+        <sinopsis>Una joven de la alta sociedad abandona a su arrogante
+pretendiente por un artista humilde en el trasatlántico que se hundió
+durante su viaje inaugural.</sinopsis>
+        <Actores>
+            <Actor>Leonardo DiCaprio</Actor>
+            <Actor>Kate Winslet</Actor>
+        </Actores>
+        <Fecha>1999</Fecha>
+        <Director>James Cameron</Director>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>The Sixth Sense</Titulo>
+        <Duracion>106</Duracion>
+        <Genero>Thriller</Genero>
+        <sinopsis>Malcolm Crowe es un psicólogo infantil que vive obsesionado
+por el recuerdo de un joven al que fue incapaz de ayudar. Cuando
+conoce a Cole, un aterrorizado y confuso niño de ocho años, se le
+presenta la oportunidad de redimirse haciendo todo lo posible por
+ayudarlo. Sin embargo, el doctor no está preparado para descubrir la
+terrible verdad sobre el chico: recibe visitas de espíritus
+atormentados que lo asustan.</sinopsis>
+        <Actores>
+            <Actor>Bruce Willis</Actor>
+            <Actor>Haley Joel Osment</Actor>
+        </Actores>
+        <Fecha>1999</Fecha>
+        <Director>M. Night Shyamalan</Director>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Tesis</Titulo>
+        <Duracion>100</Duracion>
+        <Genero>Terror</Genero>
+        <Actores>
+            <Actor>Ana Torrent</Actor>
+            <Actor>Fele Martínez</Actor>
+        </Actores>
+        <Fecha>0</Fecha>
+        <Director>Amenabar</Director>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Tesis</Titulo>
+        <Duracion>100</Duracion>
+        <Genero>Terror</Genero>
+        <Actores>
+            <Actor>Ana Torrent</Actor>
+            <Actor>Fele Martínez</Actor>
+        </Actores>
+        <Fecha>0</Fecha>
+        <Director>Amenabar</Director>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Tesis</Titulo>
+        <Duracion>100</Duracion>
+        <Genero>Terror</Genero>
+        <Actores>
+            <Actor>Ana Torrent</Actor>
+            <Actor>Fele Martínez</Actor>
+        </Actores>
+        <Fecha>0</Fecha>
+        <Director>Amenabar</Director>
+    </Pelicula>
+</CatalogoPeliculas>
